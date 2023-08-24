@@ -1,0 +1,6 @@
+porque en lenguaje de programacion solo puede utilizarse algnos sisteas operativos y en otros no => en algunos programas estan echos para funcionar en sus sistemas operativos
+ natalesy enotros no permite su copilacion o un amviente correcto para que funcionen bien.
+Que tipo de maquina virtual soporta virtualBox
+windowa desde 3.x a vista y 10, linux desde 2.2 hasta 3.0, OS.
+Que funcion cumple el hipervisor en la virtualizacion: permite que un ordenador host preste soporte a varias maquinas virtuales.
+si tengo ,as de una maquina virtual instalada y una se rompe esto afecta s demas : no porque son cosas completamente se paradas una de la otra
